@@ -1,0 +1,5 @@
+../Core/Src/Frame.c:12:10:Calculate_CRC16	24	static
+../Core/Src/Frame.c:26:6:packframe	24	static
+../Core/Src/Frame.c:41:6:FloatToBytes	24	static
+../Core/Src/Frame.c:52:6:Decode_frame	24	static
+../Core/Src/Frame.c:62:6:Decode_Payload_0x10	16	static
