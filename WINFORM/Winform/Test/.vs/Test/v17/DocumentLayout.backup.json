@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thien\\OneDrive\\Documents\\CODE\\C#\\Winform\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52FE9D2E-F614-4CFD-816F-73030FC0CAB7}|Test\\Test.csproj|c:\\users\\thien\\onedrive\\documents\\code\\c#\\winform\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52FE9D2E-F614-4CFD-816F-73030FC0CAB7}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thien\\OneDrive\\Documents\\CODE\\C#\\Winform\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "C:\\Users\\thien\\OneDrive\\Documents\\CODE\\C#\\Winform\\Test\\Test\\Program.cs*",
+              "RelativeToolTip": "Test\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:47:03.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

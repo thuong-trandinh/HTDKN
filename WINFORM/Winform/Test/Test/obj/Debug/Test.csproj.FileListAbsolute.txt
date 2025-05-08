@@ -1,0 +1,7 @@
+C:\Users\thien\OneDrive\Documents\CODE\C#\Winform\Test\Test\bin\Debug\Test.exe.config
+C:\Users\thien\OneDrive\Documents\CODE\C#\Winform\Test\Test\bin\Debug\Test.exe
+C:\Users\thien\OneDrive\Documents\CODE\C#\Winform\Test\Test\bin\Debug\Test.pdb
+C:\Users\thien\OneDrive\Documents\CODE\C#\Winform\Test\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\Users\thien\OneDrive\Documents\CODE\C#\Winform\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\thien\OneDrive\Documents\CODE\C#\Winform\Test\Test\obj\Debug\Test.exe
+C:\Users\thien\OneDrive\Documents\CODE\C#\Winform\Test\Test\obj\Debug\Test.pdb
